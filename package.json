@@ -1,0 +1,40 @@
+{
+  "name": "using-univer-with-vue2",
+  "description": "The example project of using Univer with Vue 2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "engines": {
+    "npm": ">=7.0.0"
+  },
+  "dependencies": {
+    "@univerjs/core": "^0.1.16",
+    "@univerjs/design": "^0.1.16",
+    "@univerjs/docs": "^0.1.16",
+    "@univerjs/docs-ui": "^0.1.16",
+    "@univerjs/engine-formula": "^0.1.16",
+    "@univerjs/engine-render": "^0.1.16",
+    "@univerjs/sheets": "^0.1.16",
+    "@univerjs/sheets-formula": "^0.1.16",
+    "@univerjs/sheets-ui": "^0.1.16",
+    "@univerjs/ui": "^0.1.16",
+    "@wendellhu/redi": "^0.15.5",
+    "core-js": "^3.37.1",
+    "vue": "2.7.16"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.6",
+    "@univerjs/webpack-plugin": "0.4.3",
+    "@vue/cli-plugin-babel": "~5.0.8",
+    "@vue/cli-service": "~5.0.8",
+    "vue-template-compiler": "2.7.16"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
