@@ -37,3 +37,7 @@ If you don't want to install the development environment locally, or your local 
 You can click the following button to open this repo in StackBlitz:
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/awesome-univer/sheets-vue2-demo)
+
+## References
+
+- https://univer.ai/zh-CN/playground?title=Custom+Menu
